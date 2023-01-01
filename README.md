@@ -19,7 +19,7 @@
 
 
 ## Challenge Company 1 : **Microsoft**
-- You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.[Click Here]()
+- You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.[Click Here](https://github.com/skjeswani2001/6Companies30Days/blob/main/MS:01.md)
 - Combination Sum with a twist.[Click Here]()
 - ulls and Cows [Click Here]()
 - You are given an integer array nums of length n. Return maximum length of Rotation Function.[Click Here]()
